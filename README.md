@@ -86,31 +86,31 @@ balanced advancement of generative technologies.
 
 **TABLE OF CONTENT**
 
-**1.Introduction
+**1.Introduction**
 
-2.Foundational Concepts of generative AI:
+**2.Foundational Concepts of generative AI:**
 
-How It Works
+**How It Works**
 
-Main Model Types
+**Main Model Types**
 
-Key Differences from Traditional AI
+**Key Differences from Traditional AI**
 
-3.2024 AI tools
+**3.2024 AI tools**
 
-4.Focusing on Generative AI architectures
+**4.Focusing on Generative AI architectures**
 
-Core Architecture Overview
+**Core Architecture Overview**
 
-neural network architectures
+**neural network architectures**
 
-Key Applications
+**Key Applications**
 
-5.Explain about LLM and how it is build
+**5.Explain about LLM and how it is build**
 
-a Timeline Chart for defining the Evolution of AI
+**a Timeline Chart for defining the Evolution of AI**
 
-Introduction:**
+**Introduction:**
 
 Artificial Intelligence (AI) has evolved from rule-based systems to data-driven learning models. Generative AI
 is a modern paradigm that allows machines not only to analyze data but also to create new and meaningful
