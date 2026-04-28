@@ -67,6 +67,7 @@ Output:
 
 **Comprehensive Report on the Fundamentals of
 Generative AI and Large Language Models**
+
 **OVERVIEW**
 
 Generative Artificial Intelligence (Generative AI) represents a significant shift in the evolution of intelligent
