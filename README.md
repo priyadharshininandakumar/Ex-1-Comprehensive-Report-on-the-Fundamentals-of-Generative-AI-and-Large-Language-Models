@@ -130,13 +130,18 @@ Generative AI creates new content like text, images, or music by learning patter
 **How It Works:**
 
 *Data Collection: Gather massive datasets (e.g., internet text, images) to capture patterns and variations. 
+
 *Training Phase: Models learn underlying structures via deep neural networks, often through unsupervised or self-supervised methods like predicting next tokens.
+
 *Latent Space: Data compresses into a mathematical "latent space" representing learned features, from which new samples are sampled. *Generation/Inference: Input a prompt; the model decodes from latent space to output coherent content, refined iteratively.
+
 *Fine-Tuning: Adjust for specific tasks using human feedback (e.g., RLHF in LLMs). 
 
 **Main Model Types:**
 *GANs (Generative Adversarial Networks): Two networks compete—generator creates fakes, discriminator spots them—yielding sharp images. 
+
 *VAEs (Variational Autoencoders): Encode-decode with probabilistic sampling for diverse, smooth outputs. *Diffusion Models: Add/remove noise iteratively for high-quality results (e.g., Stable Diffusion).
+
 *Transformers: Sequence-based for text/images, powering LLMs via self-attention.
 
 **Key Differences from Traditional AI:**
