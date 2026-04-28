@@ -360,5 +360,6 @@ learns that humans prefer helpful, honest, and harmless answers over toxic or no
 **references:** gemini,chatgpt,perplexity
 
 **Result:**
+
 The report demonstrates that scaling LLMs unlocks powerful capabilities, but also introduces cost, efficiency, and ethical challenges. The future lies in smarter scaling — balancing size with efficiency rather than just building endlessly larger models.
 
