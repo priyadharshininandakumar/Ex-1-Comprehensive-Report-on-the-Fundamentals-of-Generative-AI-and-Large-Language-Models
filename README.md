@@ -72,8 +72,7 @@ Generative AI and Large Language Models**
 Generative Artificial Intelligence (Generative AI) represents a significant shift in the evolution of intelligent
 systems, moving beyond traditional rule-based and predictive models toward machines capable of creating
 new and meaningful content. This report provides a comprehensive study of Generative AI and Large
-Language Models (LLMs), covering their foundational concepts, historical development, core architectures,
-and real-world applications.
+Language Models (LLMs), covering their foundational concepts, historical development, core architectures, and real-world applications.
 The report explains how generative models such as GANs, VAEs, diffusion models, and transformer-based
 architectures function, with special emphasis on Large Language Models and the principles behind their
 construction. It also examines the impact of scaling laws in LLMs, highlighting how model size, data, and
@@ -137,8 +136,7 @@ Generative AI creates new content like text, images, or music by learning patter
 
 **Main Model Types:**
 *GANs (Generative Adversarial Networks): Two networks compete—generator creates fakes, discriminator spots them—yielding sharp images. 
-*VAEs (Variational Autoencoders): Encode-decode with probabilistic sampling for diverse, smooth outputs. *Diffusion Models: Add/remove noise iteratively for high-quality results
-(e.g., Stable Diffusion).
+*VAEs (Variational Autoencoders): Encode-decode with probabilistic sampling for diverse, smooth outputs. *Diffusion Models: Add/remove noise iteratively for high-quality results (e.g., Stable Diffusion).
 *Transformers: Sequence-based for text/images, powering LLMs via self-attention.
 
 **Key Differences from Traditional AI:**
