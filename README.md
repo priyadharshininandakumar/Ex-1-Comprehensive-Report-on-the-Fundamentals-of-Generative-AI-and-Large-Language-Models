@@ -305,34 +305,28 @@ the model how to follow commands.
 RLHF (Reinforcement Learning from Human Feedback): Human testers rank different AI responses. The model
 learns that humans prefer helpful, honest, and harmless answers over toxic or nonsensical ones.
 
-Create a Timeline Chart for defining the Evolution of AI
-Year /
-Period Milestone Description
-1950 Turing Test Alan Turing proposed the Turing Test to evaluate machine
-intelligence.
-1956 Birth of AI Term Artificial Intelligence coined at the Dartmouth
-Conference by John McCarthy.
-1960s
-1970s Symbolic AI Rule-based systems and logical reasoning (e.g., ELIZA,
-SHRDLU).
-1980s Expert Systems AI systems using knowledge bases for decision-making (e.g.,
-MYCIN).
-1997 Deep Blue IBM’s Deep Blue defeated chess champion Garry Kasparov.
-2006 Revival of Neural
-Networks Geoffrey Hinton popularized deep learning concepts.
-2012 Deep Learning
-Breakthrough AlexNet revolutionized image recognition using GPUs.
-2014 Generative Models GANs introduced by Ian Goodfellow for data generation.
-2017 Transformers “Attention Is All You Need” paper introduced Transformer
-architecture.
-2018 BERT Bidirectional language understanding improved NLP tasks.
-2020 GPT-3 Large-scale language models demonstrated human-like text
-generation.
-2022 ChatGPT Conversational AI became mainstream for public use.
-Create a Timeline Chart for defining the Evolution of AI
-Year /
-Period Milestone Description
-2023–2024 Multimodal AI Models process text, images, audio, and video together
+**Create a Timeline Chart for defining the Evolution of AI**
+
+| Year / Period   | Milestone             | Description                                                                                                                                  |
+| --------------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1940s–1950s** | Foundations of AI     | Early computing concepts; **Alan Turing** proposes machine intelligence and the Turing Test.                                                 |
+| **1956**        | Birth of AI           | Term *Artificial Intelligence* coined at the Dartmouth Conference.                                                                           |
+| **1960s**       | Early AI Systems      | Development of programs like **ELIZA** (early chatbot) and problem-solving systems.                                                          |
+| **1970s**       | AI Winter             | Funding drops due to slow progress and limitations.                                                                                          |
+| **1980s**       | Expert Systems        | Rule-based AI used in industries like healthcare and finance.                                                                                |
+| **1997**        | AI Breakthrough       | **IBM Deep Blue** defeats world chess champion Garry Kasparov.                                                                               |
+| **2000s**       | Rise of Data          | Growth of internet and big data improves AI performance.                                                                                     |
+| **2011**        | Smart AI Systems      | **IBM Watson** wins the quiz show *Jeopardy!*.                                                                                               |
+| **2016**        | Deep Learning Success | **AlphaGo (Google DeepMind)** defeats Go champion Lee Sedol.                                                                                 |
+| **2018–2019**   | NLP Advances          | Models like **BERT** improve language understanding significantly.                                                                           |
+| **2020**        | Large Language Models | **GPT-3** introduces powerful text generation.                                                                                               |
+| **2022**        | Generative AI Boom    | **ChatGPT** makes AI accessible to the public.                                                                                               |
+| **2023**        | Multimodal AI         | AI understands text, images, and audio together (e.g., GPT-4, DALL·E).                                                                       |
+| **2024**        | AI Integration        | AI integrated into search engines, education, coding, and daily tools.                                                                       |
+| **2025**        | Autonomous & Agent AI | AI agents perform tasks independently (planning, coding, automation).                                                                        |
+| **2026 (Now)**  | Advanced AI Ecosystem | Highly capable AI systems assist in learning, research, business, healthcare, and creative work with improved reasoning and personalization. |
+
+
 
 **Challenges in Generative AI and LLMs**
 
